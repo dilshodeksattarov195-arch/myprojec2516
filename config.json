@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfarse",
+        "uuid": 9928136,
+        "checksum": "6e9rpo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
